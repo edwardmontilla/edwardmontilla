@@ -2,7 +2,6 @@
 
 #### I'm a recent Software Development graduate from Southern Alberta Institute of Technology (SAIT) with a background in 2D Digital Animation, committed to leveraging expertise in web design and proficient software languages to create dynamic and engaging online experiences.
 
-<br />
 
 ### Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,python)](https://skillicons.dev)

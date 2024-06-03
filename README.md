@@ -2,10 +2,17 @@
 
 #### I'm a recent Software Development graduate from Southern Alberta Institute of Technology (SAIT) with a background in 2D Digital Animation, committed to leveraging expertise in web design and proficient software languages to create dynamic and engaging online experiences.
 
-#### Based in Calgary, Alberta, Canada.
+### Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,python)](https://skillicons.dev)
+
+### UI:
+[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
 
 
 
+- 🔭 I’m currently working on improving my coding skills
+- 🌱 I’m currently learning how to design better websites
+- 📫 How to reach me: edanmontilla@gmail.com
 
 <!--
 **edwardmontilla/edwardmontilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

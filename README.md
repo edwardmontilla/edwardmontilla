@@ -4,7 +4,7 @@
 
 
 ### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,npm,python,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,nextjs,nodejs,npm,tailwind)](https://skillicons.dev)
 
 ### UI:
 [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
